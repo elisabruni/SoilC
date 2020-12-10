@@ -1,5 +1,8 @@
 ############################################################
-#IBCM (Andren and Katterer 1997)
+#ICBM 
+#Equations from (Andren and Katterer 1997) 
+#(https://doi.org/10.1890/1051-0761(1997)007[1226:ITICBM]2.0.CO;2)
+
 import sys
 import numpy as np
 import scipy
