@@ -1,3 +1,5 @@
+#RothC-26.3 (https://www.rothamsted.ac.uk/sites/default/files/RothC_guide_WIN.pdf)
+#Discrete to continuous form from Parshotam (1996) (https://doi.org/10.1016/0304-3800(95)00065-8)
 #Matricial form
 import sys
 import numpy as np
