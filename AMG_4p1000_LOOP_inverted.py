@@ -1,3 +1,4 @@
+#Equations from Clivot et al. (2019) (https://doi.org/10.1016/j.envsoft.2019.04.004)
 ############################################################
 #AMGv1 and AMGv2
 import sys
