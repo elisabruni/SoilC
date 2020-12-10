@@ -77,7 +77,7 @@ def SOC_NanZeroRemover(site_T0,site_T0_name):
         ss0=np.where(np.isnan(ss0),0,ss0)      # replace NaN with 0
         sc=ss0[ss0>0]                            # cut away all 0s, sc now corresponds to real measurements
         ########################################
-        #No need to convert sc and vv0 in rothc
+        #No need to convert sc and vv0 in AMG
         #######################################
         YEAR=yy0[ss0>0]                          # select the years corresponding to sc
         std2=np.std(sc)**2                      # square standard deviation of the measurements (use when no error provided - ??)
